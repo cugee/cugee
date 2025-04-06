@@ -28,14 +28,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cugee&show_icons=true&theme=default"/>
-</p>
-
----
-
 ### 💬 Contact
 
 - Notion 포트폴리오: 추후 추가
