@@ -29,7 +29,7 @@
 
 ### 💬 Contact
 
-- Notion 포트폴리오: 추후 추가
+- Notion 포트폴리오: [자기소개서](https://www.notion.so/LEE-YOUNGJI-1ce21c05527c8039872cc27fadd037f0?pvs=4)
 
 ---
 
